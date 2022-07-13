@@ -16,24 +16,10 @@ namespace RabbitMQ.Consumer
 
             };
             using var connection = factory.CreateConnection();
-            using var chanell = connection.CreateModel();
-            chanell.QueueDeclare("demo-queue",
-                durable: true,
-                exclusive: false,
-                arguments: null);
-
-            var consumer = new EventingBasicConsumer(chanell);
-
-            consumer.Received += (sender, e) =>
-            {
-                var body = e.Body.ToArray();
-                var message = Encoding.UTF8.GetString(body);
-                Console.WriteLine(message);
-            };
-
-            chanell.BasicConsume("demo-queue", true, consumer);
-
-            Console.ReadLine();
+            using var channel = connection.CreateModel();
+            
+            DirectExchangeConsumer.Consume(channel);
+            
         }
     }
 }
