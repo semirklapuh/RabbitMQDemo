@@ -1,0 +1,17 @@
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/RabbitMQ.Producer
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/RabbitMQ.Producer.deps.json
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/RabbitMQ.Producer.runtimeconfig.json
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/RabbitMQ.Producer.runtimeconfig.dev.json
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/RabbitMQ.Producer.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/RabbitMQ.Producer.pdb
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/obj/Debug/netcoreapp3.1/RabbitMQ.Producer.csprojAssemblyReference.cache
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/obj/Debug/netcoreapp3.1/RabbitMQ.Producer.AssemblyInfoInputs.cache
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/obj/Debug/netcoreapp3.1/RabbitMQ.Producer.AssemblyInfo.cs
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/obj/Debug/netcoreapp3.1/RabbitMQ.Producer.csproj.CoreCompileInputs.cache
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/obj/Debug/netcoreapp3.1/RabbitMQ.Producer.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/obj/Debug/netcoreapp3.1/RabbitMQ.Producer.pdb
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/obj/Debug/netcoreapp3.1/RabbitMQ.Producer.genruntimeconfig.cache
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Producer/obj/Debug/netcoreapp3.1/RabbitMQ.Producer.csproj.CopyComplete

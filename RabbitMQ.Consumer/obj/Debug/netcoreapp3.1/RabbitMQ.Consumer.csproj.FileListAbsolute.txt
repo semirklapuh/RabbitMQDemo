@@ -1,0 +1,17 @@
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/RabbitMQ.Consumer
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/RabbitMQ.Consumer.deps.json
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/RabbitMQ.Consumer.runtimeconfig.json
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/RabbitMQ.Consumer.runtimeconfig.dev.json
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/RabbitMQ.Consumer.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/RabbitMQ.Consumer.pdb
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/obj/Debug/netcoreapp3.1/RabbitMQ.Consumer.csprojAssemblyReference.cache
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/obj/Debug/netcoreapp3.1/RabbitMQ.Consumer.AssemblyInfoInputs.cache
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/obj/Debug/netcoreapp3.1/RabbitMQ.Consumer.AssemblyInfo.cs
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/obj/Debug/netcoreapp3.1/RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/obj/Debug/netcoreapp3.1/RabbitMQ.Consumer.csproj.CopyComplete
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/obj/Debug/netcoreapp3.1/RabbitMQ.Consumer.dll
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/obj/Debug/netcoreapp3.1/RabbitMQ.Consumer.pdb
+/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/obj/Debug/netcoreapp3.1/RabbitMQ.Consumer.genruntimeconfig.cache

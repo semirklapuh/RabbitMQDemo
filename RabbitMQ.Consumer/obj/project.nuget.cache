@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWfAkv9SvGiKGeBgYmAVAFyxb6Ti6ES5wTI8r99ouaPNAqcniFjmGR8cjE5Aif7PETXf+XF03BO6/tIGZTbC1Q==",
+  "success": true,
+  "projectFilePath": "/home/meshmind/RiderProjects/RabbitMQ.Producer/RabbitMQ.Consumer/RabbitMQ.Consumer.csproj",
+  "expectedPackageFiles": [
+    "/home/meshmind/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/meshmind/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/home/meshmind/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/meshmind/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512",
+    "/home/meshmind/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.26/microsoft.netcore.app.host.linux-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
